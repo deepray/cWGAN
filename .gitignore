@@ -1,1 +1,8 @@
 .DS_Store
+Scripts/__pycache__/*
+Data/__pycache__/*
+Archive/*
+Data/datasets_ellipse/*
+Data/datasets_rectangle/*
+Pretrained_Nets/*/Test_results/*
+exps/*
